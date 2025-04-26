@@ -1,3 +1,4 @@
+![logo](https://github.com/Komalmarwadkar/komal_marwadkar/blob/main/WhatsApp%20Image%202025-04-26%20at%2017.48.02_0513a409.jpg)
 <h1 align="center">Hi 👋, I'm komal_marwadkar</h1>
 <h3 align="center">A passionate computer Application from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
